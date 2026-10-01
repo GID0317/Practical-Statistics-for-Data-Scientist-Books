@@ -1,0 +1,90 @@
+{
+  "repository": "https://github.com/gedeck/practical-statistics-for-data-scientists",
+  "commit": "8a6d3bb6468e979c861d4b37215e1413702dfdfa",
+  "files": [
+    {
+      "name": "LungDisease.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/LungDisease.csv",
+      "bytes": 832,
+      "sha256": "77d02b4f7ce07594ff450fefef8713ca6248d1b82e5ff15b9d1aa1d14c21edbf"
+    },
+    {
+      "name": "airline_stats.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/airline_stats.csv",
+      "bytes": 1784825,
+      "sha256": "0bee622e10934163281e274a4a1730a8b98796c0290b92e7bbb6c82687bb05a6"
+    },
+    {
+      "name": "click_rates.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/click_rates.csv",
+      "bytes": 151,
+      "sha256": "6b6e94e7f5eb316d649155f57af913a81a84a2058d052cd9c04fcaaf9f1b3af9"
+    },
+    {
+      "name": "dfw_airline.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/dfw_airline.csv",
+      "bytes": 90,
+      "sha256": "16472920ad17783e14f5654715b4e8c174d6720f05d6870a30934f02974387e4"
+    },
+    {
+      "name": "four_sessions.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/four_sessions.csv",
+      "bytes": 229,
+      "sha256": "183e3f7226273581b3393ed5fec0b94c3f5701239f14b9cf01e426a535466226"
+    },
+    {
+      "name": "house_sales.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/house_sales.csv",
+      "bytes": 3545162,
+      "sha256": "25f9db700c12fa28370ae5ed903f021865db02e39803ec21cce24367e59d45c9"
+    },
+    {
+      "name": "imanishi_data.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/imanishi_data.csv",
+      "bytes": 65,
+      "sha256": "124113fbf2e32ced747abcae80eafaae311d8b15d3daf96a4d89ca0e42e759ce"
+    },
+    {
+      "name": "kc_tax.csv.gz",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/kc_tax.csv.gz",
+      "bytes": 2346023,
+      "sha256": "40fcfd77860a2ac8c62f8633e5937ee4acddded088095f3c144d46b8977dec7d"
+    },
+    {
+      "name": "lc_loans.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/lc_loans.csv",
+      "bytes": 4862888,
+      "sha256": "ecd25628adbb10713ff83c5c98317e99ee42ddc5f017a92f10cfef9b3a94de0e"
+    },
+    {
+      "name": "loans_income.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/loans_income.csv",
+      "bytes": 308338,
+      "sha256": "8e78d3d59fdc3d0ddd3eabd0243a75214c6ee7ae40bf5294612967352be4c33d"
+    },
+    {
+      "name": "sp500_data.csv.gz",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/sp500_data.csv.gz",
+      "bytes": 21152050,
+      "sha256": "fb86ce1a70897800bee406a3c004254a731231041bb17aa4624e5fc3ab31cea7"
+    },
+    {
+      "name": "sp500_sectors.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/sp500_sectors.csv",
+      "bytes": 28327,
+      "sha256": "d4cfd1329b16aa5cbab7aeaaadbed2e21c0e78835d39aeb58abc58f1762cc337"
+    },
+    {
+      "name": "state.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/state.csv",
+      "bytes": 1457,
+      "sha256": "b8c53e8c8c093ff9c7f1b3c455df84cc6af2d99c16630abc2cc7a1789935eded"
+    },
+    {
+      "name": "web_page_data.csv",
+      "url": "https://raw.githubusercontent.com/gedeck/practical-statistics-for-data-scientists/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data/web_page_data.csv",
+      "bytes": 441,
+      "sha256": "634240a691c174228559a6152cd42cc4096543035b7f9ce180c33c0ba3bfc824"
+    }
+  ]
+}
